@@ -72,7 +72,7 @@ Step 3 — Open Swagger Documentation
 
 Open:
 
-http://127.0.0.1:8000/docs
+[http://127.0.0.1:8000/docs](http://127.0.0.1:8000/docs)
 API Endpoints
 GET /health
 
